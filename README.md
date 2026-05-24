@@ -1,21 +1,10 @@
 # Hermes Community Skills Repository
 
-<div align="center">
-  
-  <h1>🚀 Hermes Community Skills Repository</h1>
-  
-  <p><strong>Your Central Hub for Advanced Hermes Agent Skills & Frameworks</strong></p>
-  
-  <p>Discover, contribute to, and implement sophisticated skills that enhance the capabilities of the Hermes agent ecosystem.</p>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-    <img src="https://img.shields.io/badge/Status-Private-yellow.svg" alt="Status">
-    <img src="https://img.shields.io/badge/Security-High-red.svg" alt="Security">
-    <img src="https://img.shields.io/badge/Quality-Production%20Ready-green.svg" alt="Quality">
-  </p>
-  
-</div>
+[![Banner](banner.svg)](https://github.com/BigBossRabbit/hermes-community-skills)
+
+**Your Central Hub for Advanced Hermes Agent Skills & Frameworks**
+
+Discover, contribute to, and implement sophisticated skills that enhance the capabilities of the Hermes agent ecosystem.
 
 ## 🎯 Repository Overview
 
@@ -71,31 +60,6 @@ This private repository hosts a collection of sophisticated skills and framework
 - **Features**: Vertical specialization, workflow automation, integration-first
 - **Status**: 📋 Research Complete
 - **Integration**: Strategic product development guidance
-
-## 🎨 Professional Banners
-
-Each repository features a professional banner with:
-
-### Design Elements
-- **Unique Color Scheme**: Each skill has its own brand colors
-- **ASCII Art Design**: Professional text-based banners
-- **Key Features Highlight**: Visual representation of capabilities
-- **Status Badges**: Production ready, research complete indicators
-- **Integration Labels**: Hermes ecosystem compatibility
-
-### Banner Types
-1. **Asset Directory** (`assets/`): Contains detailed banner designs
-2. **Markdown Banner** (`banner.md`): Ready-to-use README sections
-3. **Text Banner** (`assets/banner.txt`): ASCII art version
-4. **HTML Banner** (`assets/banner.html`): Web-ready format
-
-### Customization Options
-```markdown
-<!-- Include in your README -->
-<div align="center">
-  <img src="assets/banner.png" alt="Skill Name Banner" width="800">
-</div>
-```
 
 ## 🚀 Quick Start Guide
 
@@ -270,8 +234,8 @@ All skills are licensed under the MIT License. See individual skill directories 
 
 **Join our community and help shape the future of AI agent development!** 🚀
 
+---
+
 <div align="center">
-  
   <p><strong>🔒 Private Repository | 🚀 Production Ready | 🎯 Community Focused</strong></p>
-  
 </div>
