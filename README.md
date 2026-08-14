@@ -25,8 +25,6 @@
 ╚════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Banner](banner.svg)](https://github.com/BigBossRabbit/hermes-community-skills)
-
 **Your Central Hub for Advanced Hermes Agent Skills & Frameworks**
 
 Discover, contribute to, and implement sophisticated skills that enhance the capabilities of the Hermes agent ecosystem.
