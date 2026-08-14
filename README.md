@@ -1,5 +1,7 @@
 # Hermes Community Skills Repository
 
+<img src="assets/hermes-community-skills-banner.svg" alt="hermes-community-skills banner" width="100%"/>
+
 [![Banner](banner.svg)](https://github.com/BigBossRabbit/hermes-community-skills)
 
 **Your Central Hub for Advanced Hermes Agent Skills & Frameworks**
